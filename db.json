@@ -1,28 +1,142 @@
-{
-  "species": [
-   {
-     "animal": "dog",
-      "product": [
-        "Product One",
-        "Product Two",
-        "Product Three"
-      ],
-      "weight": [
-        {
-          "title": "4-6lbs",
-          "icon": "<svg width=\"32.679\" height=\"24.782\" viewBox=\"0 0 32.679 24.782\"><g transform=\"translate(0.625 0.662)\"><path d=\"M124.767-87.592a8.982,8.982,0,0,0-.645,4.051,3.661,3.661,0,0,1-.28,1.908,6.748,6.748,0,0,0-.407,2.315s.038.547.089.979a.674.674,0,0,0,.672.58l2.037.016a.533.533,0,0,0,.4-.156c.123-.132.206-.327.017-.714-.3-.621-.754-.449-1.089-.882a4.7,4.7,0,0,1,.384-1.656c.2-.738,2.452-.277,4.639-2.744.534-.356,1.485,2.025,10.309,1.857.189,0,.373-.012.552-.024\" transform=\"translate(-122.243 101.223)\" fill=\"none\" stroke=\"#fcd200\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.25\"\/><path d=\"M144.493-104.59c-.926.769-1.4,2.481-1.691,3.306a6.233,6.233,0,0,1-3.942,3.79c-4.883,1.068-10.6.028-13.172.948a5.221,5.221,0,0,0-3.412,3.1c-.965,2.731-.8,5.151-.185,5.3s1.167-.1,1.361-2.023\" transform=\"translate(-121.592 107.24)\" fill=\"none\" stroke=\"#fcd200\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.25\"\/><path d=\"M158.718-105.5l.17.02c2.729.362,2.251,1.941,3.129,2.235s2.987.107,2.956,1.1a1.994,1.994,0,0,1-1.631,2.2,18.35,18.35,0,0,1-2.083.317,1.1,1.1,0,0,0-.874.736,10.054,10.054,0,0,0-.33,2.682c-.1,2.194-.845,6.031-4.7,7.374\" transform=\"translate(-133.544 107.562)\" fill=\"none\" stroke=\"#fcd200\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.25\"\/><path d=\"M153.908-79.69a13.642,13.642,0,0,0-.178,3.034c.335.433.946.232,1.249.853.189.388.105.583-.018.715a.538.538,0,0,1-.4.156l-2.251-.016a.674.674,0,0,1-.672-.579c-.051-.432-.089-.979-.089-.979-.051-.915-.16-2.765-.16-2.765\" transform=\"translate(-132.14 98.426)\" fill=\"none\" stroke=\"#fcd200\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.25\"\/><path d=\"M157.056-103.4s-.184-4.108.816-5.128c1.041-1.061,1.72,3.472,1.834,3.784\" transform=\"translate(-134.141 108.693)\" fill=\"none\" stroke=\"#fcd200\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.25\"\/><path d=\"M169.566-100.813s-.017.292-.154.344-.175.291-.345-.154.017-.292.155-.344S169.566-100.813,169.566-100.813Z\" transform=\"translate(-138.374 105.961)\" fill=\"none\" stroke=\"#fcd200\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.25\"\/><path d=\"M163.376-101.986s-.019.043-.043.043-.043.034-.043-.043.019-.043.043-.043S163.376-101.986,163.376-101.986Z\" transform=\"translate(-136.352 106.337)\" fill=\"none\" stroke=\"#fcd200\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.25\"\/><\/g><\/svg>"
-        },
-        {
-          "title": "6-12lbs",
-          "icon": "<svg width=\"28.496\" height=\"24.077\" viewBox=\"0 0 28.496 24.077\"><g transform=\"translate(0.756 0.672)\"><path d=\"M216.795-107.373c-.591.5-1.388,1.333-1.908,1.767-.757.631-5.79.379-9.765.946-.216.03-.426.067-.629.107\" transform=\"translate(-197.412 109.327)\" fill=\"none\" stroke=\"#e80088\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.25\"\/><path d=\"M198.079-104.619a5.472,5.472,0,0,0-2.831,3.939c-.347,2.145-.063,4.448-.694,6.025a13.875,13.875,0,0,0-.729,2.11,11.035,11.035,0,0,0-.1,4.582.738.738,0,0,0,.684.443l1.93-.006c.4,0,.636-.519.4-.986-.506-1.014-.756-.689-.8-1.317a3.3,3.3,0,0,1,.994-2.98c.837-.9,1.535-1.773,1.859-2.157a6.011,6.011,0,0,0,.917-1.267,34.616,34.616,0,0,0,8.285.82s.494,4.426.61,5.167a13.713,13.713,0,0,0,.548,2.282.739.739,0,0,0,.683.443l2.337-.006a.424.424,0,0,0,.325-.143.871.871,0,0,0,.138-.735c-.118-.753-1.189-.655-1.222-1.282s-.135-2.51-.18-3.348a3.41,3.41,0,0,1,1.585-3.2c1.7-.978,2.346-2.4,3.691-5.332.694-1.514,1.291-.889,2.64-1.391s1.959-2.539,1.059-4.209c-.13-.242-.612-.32-.8-.669a3.642,3.642,0,0,0-3.372-2.288\" transform=\"translate(-193.532 110.299)\" fill=\"none\" stroke=\"#e80088\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.25\"\/><path d=\"M196.765-100.491s-.8-2.992,1.342-4.6,4.438.563,2.611,2.56c-.8.879-1.381-.5-1.381-.5\" transform=\"translate(-194.625 108.718)\" fill=\"none\" stroke=\"#e80088\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.25\"\/><path d=\"M226.376-110.242a2.37,2.37,0,0,0-2.287.339,2.125,2.125,0,0,0,.189,3.016c.662.493,1.183,1.311,1.893.919S227.669-109.5,226.376-110.242Z\" transform=\"translate(-204.153 110.398)\" fill=\"none\" stroke=\"#e80088\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.25\"\/><path d=\"M231.759-106.085s-.031.07-.07.07-.069.055-.069-.07.031-.069.069-.069S231.759-106.085,231.759-106.085Z\" transform=\"translate(-207.015 108.9)\" fill=\"none\" stroke=\"#e80088\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.25\"\/><path d=\"M234.431-105.467s-.071.291-.215.312c-.079.011-.172-.016-.3-.224-.262-.41.071-.287.215-.312S234.431-105.467,234.431-105.467Z\" transform=\"translate(-207.791 108.732)\" fill=\"none\" stroke=\"#e80088\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.25\"\/><\/g><\/svg>"
-        }
-      ],
-      "packSize": [
-        {
-          "title": "6 Tablets",
-          "icon": "<svg width=\"16.654\" height=\"10.361\" viewBox=\"0 0 16.654 10.361\"><ellipse cx=\"7.98\" cy=\"2.007\" rx=\"7.98\" ry=\"2.007\" transform=\"translate(0.397 0.843)\" fill=\"#fff\"\/><path d=\"M28.084,62.79c-.669,0-1.784-.124-1.784-.545s1.115-.545,1.784-.545,1.784.124,1.784.545S28.753,62.79,28.084,62.79Zm0-.843c-.917,0-1.462.173-1.512.3a2.94,2.94,0,0,0,1.512.273c.917,0,1.462-.173,1.512-.3A2.94,2.94,0,0,0,28.084,61.948Z\" transform=\"translate(-19.782 -60.51)\" fill=\"#4d6678\"\/><g transform=\"translate(2.677 1.883)\"><path d=\"M12.584,65.59c-.669,0-1.784-.124-1.784-.545s1.115-.545,1.784-.545,1.784.124,1.784.545S13.253,65.59,12.584,65.59Zm0-.818c-.917,0-1.462.173-1.512.3a2.94,2.94,0,0,0,1.512.273c.917,0,1.462-.173,1.512-.3C14.071,64.946,13.5,64.773,12.584,64.773Z\" transform=\"translate(-10.8 -64.5)\" fill=\"#4d6678\"\/><path d=\"M43.584,65.59c-.669,0-1.784-.124-1.784-.545s1.115-.545,1.784-.545,1.784.124,1.784.545S44.229,65.59,43.584,65.59Zm0-.818c-.917,0-1.462.173-1.512.3a2.94,2.94,0,0,0,1.512.273c.917,0,1.462-.173,1.512-.3A2.672,2.672,0,0,0,43.584,64.773Z\" transform=\"translate(-34.117 -64.5)\" fill=\"#4d6678\"\/><\/g><g transform=\"translate(4.312 3.197)\"><path d=\"M19.184,70.89c-.669,0-1.784-.124-1.784-.545s1.115-.545,1.784-.545,1.784.124,1.784.545S19.829,70.89,19.184,70.89Zm0-.843c-.917,0-1.462.173-1.512.3a2.94,2.94,0,0,0,1.512.273c.917,0,1.462-.173,1.512-.3A2.94,2.94,0,0,0,19.184,70.048Z\" transform=\"translate(-17.4 -69.8)\" fill=\"#4d6678\"\/><path d=\"M38.084,70.89c-.669,0-1.784-.124-1.784-.545s1.115-.545,1.784-.545,1.784.124,1.784.545S38.754,70.89,38.084,70.89Zm0-.843c-.917,0-1.462.173-1.512.3a2.94,2.94,0,0,0,1.512.273c.917,0,1.462-.173,1.512-.3A2.94,2.94,0,0,0,38.084,70.048Z\" transform=\"translate(-31.616 -69.8)\" fill=\"#4d6678\"\/><\/g><path d=\"M16.01,64.459a.4.4,0,0,0-.322.149,4.331,4.331,0,0,1-2.057,1.066,18.375,18.375,0,0,1-9.566.3C1.685,65.425.843,64.756.843,64.459v-3.42C2.057,61.931,4.56,62.6,8.327,62.6c3.742,0,6.27-.694,7.484-1.561v2.5a.424.424,0,0,0,.446.421h0a.413.413,0,0,0,.4-.421V59.75c-.025-1.413-2.875-2.85-8.3-2.85C2.85,56.9,0,58.337,0,59.75v4.709c0,.917,1.289,1.71,3.866,2.3a18.816,18.816,0,0,0,4.411.5,18.85,18.85,0,0,0,5.626-.818,5.562,5.562,0,0,0,2.453-1.313.425.425,0,0,0-.347-.669ZM8.3,61.757c-4.634,0-7.484-1.165-7.484-2.007s2.85-2.007,7.484-2.007,7.484,1.19,7.484,2.007C15.762,60.568,12.937,61.757,8.3,61.757Z\" transform=\"translate(0 -56.9)\" fill=\"#4d6678\"\/><\/svg>"
-        }
-      ]
-   }
-  ]
-}
+[
+  {
+    "species": "dog",
+    "product": "product one",
+    "weight": {
+      "title": "4-6lbs",
+      "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#fcd237\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+    },
+    "packSize": {
+      "title": "6 tablets",
+      "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+    },
+    "picture": "https://source.unsplash.com/random/500x800",
+    "SKU": "xxxxx"
+  },
+  {
+    "species": "dog",
+    "product": "product two",
+    "weight": {
+      "title": "6-12lbs",
+      "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#E80088\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+    },
+    "packSize": {
+      "title": "6 tablets",
+      "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+    },
+    "picture": "https://source.unsplash.com/random/500x800",
+    "SKU": "xxxxx"
+  },
+  {
+    "species": "dog",
+    "product": "product there",
+    "weight": {
+      "title": "12-25lbs",
+      "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#F28634\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+    },
+    "packSize": {
+      "title": "4 tablets",
+      "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+    },
+    "picture": "https://source.unsplash.com/random/500x800",
+    "SKU": "xxxxx"
+  },
+  {
+    "species": "dog",
+    "product": "product four",
+    "weight": {
+      "title": "25-50lbs",
+      "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#62B747\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+    },
+    "packSize": {
+      "title": "6 tablets",
+      "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+    },
+    "picture": "https://source.unsplash.com/random/500x800",
+    "SKU": "xxxxx"
+  },
+  {
+    "species": "dog",
+    "product": "product three",
+    "weight": {
+      "title": "50-100lbs",
+      "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#0096D6\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+    },
+    "packSize": {
+      "title": "6 tablets",
+      "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+    },
+    "picture": "https://source.unsplash.com/random/500x800",
+    "SKU": "xxxxx"
+  },
+  {
+    "species": "dog",
+    "product": "product three",
+    "weight": {
+      "title": "12-25lbs",
+      "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#0096D6\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+    },
+    "packSize": {
+      "title": "6 tablets",
+      "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+    },
+    "picture": "https://source.unsplash.com/random/500x800",
+    "SKU": "xxxxx"
+  },
+  {
+    "species": "cat",
+    "product": "product one",
+    "weight": {
+      "title": "12-25lbs",
+      "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#0096D6\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+    },
+    "packSize": {
+      "title": "6 tablets",
+      "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+    },
+    "picture": "https://source.unsplash.com/random/500x800",
+    "SKU": "xxxxx"
+  },
+  {
+    "species": "cat",
+    "product": "product five",
+    "weight": {
+      "title": "12-25lbs",
+      "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#0096D6\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+    },
+    "packSize": {
+      "title": "6 tablets",
+      "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+    },
+    "picture": "https://source.unsplash.com/random/500x800",
+    "SKU": "xxxxx"
+  },
+  {
+    "species": "cat",
+    "product": "product there",
+    "weight": {
+      "title": "12-25lbs",
+      "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#F28634\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+    },
+    "packSize": {
+      "title": "4 tablets",
+      "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+    },
+    "picture": "https://source.unsplash.com/random/500x800",
+    "SKU": "xxxxx"
+  },
+  {
+    "species": "cat",
+    "product": "product two",
+    "weight": {
+      "title": "6-12lbs",
+      "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#E80088\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+    },
+    "packSize": {
+      "title": "6 tablets",
+      "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+    },
+    "picture": "https://source.unsplash.com/random/500x800",
+    "SKU": "xxxxx"
+  }
+]
