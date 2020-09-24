@@ -5,11 +5,11 @@
       "product": "product one",
       "weight": {
         "title": "4-6lbs",
-        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#fcd237\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#fcd237\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"/></g></svg>"
       },
       "packSize": {
         "title": "6 tablets",
-        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"/></g></svg>"
       },
       "picture": "https://source.unsplash.com/random/500x800",
       "SKU": "xxxxx"
@@ -19,11 +19,11 @@
       "product": "product two",
       "weight": {
         "title": "6-12lbs",
-        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#E80088\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#E80088\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"/></g></svg>"
       },
       "packSize": {
         "title": "6 tablets",
-        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"/></g></svg>"
       },
       "picture": "https://source.unsplash.com/random/500x800",
       "SKU": "xxxxx"
@@ -33,11 +33,11 @@
       "product": "product there",
       "weight": {
         "title": "12-25lbs",
-        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#F28634\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#F28634\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"/></g></svg>"
       },
       "packSize": {
         "title": "4 tablets",
-        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"/></g></svg>"
       },
       "picture": "https://source.unsplash.com/random/500x800",
       "SKU": "xxxxx"
@@ -47,11 +47,11 @@
       "product": "product four",
       "weight": {
         "title": "25-50lbs",
-        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#62B747\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#62B747\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"/></g></svg>"
       },
       "packSize": {
         "title": "6 tablets",
-        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"/></g></svg>"
       },
       "picture": "https://source.unsplash.com/random/500x800",
       "SKU": "xxxxx"
@@ -61,11 +61,11 @@
       "product": "product three",
       "weight": {
         "title": "50-100lbs",
-        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#0096D6\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#0096D6\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"/></g></svg>"
       },
       "packSize": {
         "title": "6 tablets",
-        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"/></g></svg>"
       },
       "picture": "https://source.unsplash.com/random/500x800",
       "SKU": "xxxxx"
@@ -75,11 +75,11 @@
       "product": "product three",
       "weight": {
         "title": "12-25lbs",
-        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#0096D6\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#0096D6\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"/></g></svg>"
       },
       "packSize": {
         "title": "6 tablets",
-        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"/></g></svg>"
       },
       "picture": "https://source.unsplash.com/random/500x800",
       "SKU": "xxxxx"
@@ -89,11 +89,11 @@
       "product": "product one",
       "weight": {
         "title": "12-25lbs",
-        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#0096D6\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#0096D6\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"/></g></svg>"
       },
       "packSize": {
         "title": "6 tablets",
-        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"/></g></svg>"
       },
       "picture": "https://source.unsplash.com/random/500x800",
       "SKU": "xxxxx"
@@ -103,11 +103,11 @@
       "product": "product five",
       "weight": {
         "title": "12-25lbs",
-        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#0096D6\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#0096D6\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"/></g></svg>"
       },
       "packSize": {
         "title": "6 tablets",
-        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"/></g></svg>"
       },
       "picture": "https://source.unsplash.com/random/500x800",
       "SKU": "xxxxx"
@@ -117,11 +117,11 @@
       "product": "product there",
       "weight": {
         "title": "12-25lbs",
-        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#F28634\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#F28634\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"/></g></svg>"
       },
       "packSize": {
         "title": "4 tablets",
-        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"/></g></svg>"
       },
       "picture": "https://source.unsplash.com/random/500x800",
       "SKU": "xxxxx"
@@ -131,11 +131,39 @@
       "product": "product two",
       "weight": {
         "title": "6-12lbs",
-        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#E80088\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"\/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"\/><\/g><\/svg>" 
+        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#E80088\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"/></g></svg>"
       },
       "packSize": {
         "title": "6 tablets",
-        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"\/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"\/><\/g><\/svg>"
+        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"/></g></svg>"
+      },
+      "picture": "https://source.unsplash.com/random/500x800",
+      "SKU": "xxxxx"
+    },
+    {
+      "species": "cat",
+      "product": "product two",
+      "weight": {
+        "title": "18-19.5lbs",
+        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#E80088\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"/></g></svg>"
+      },
+      "packSize": {
+        "title": "6 tablets",
+        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"/></g></svg>"
+      },
+      "picture": "https://source.unsplash.com/random/500x800",
+      "SKU": "xxxxx"
+    },
+    {
+      "species": "cat",
+      "product": "product five",
+      "weight": {
+        "title": "6-12lbs",
+        "icon": "<svg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\"><g fill=\"none\" stroke=\"#E80088\" stroke-width=\"1.25\"><circle cx=\"22\" cy=\"22\" r=\"22\" stroke=\"none\"/><circle cx=\"22\" cy=\"22\" r=\"21.375\" fill=\"none\"/></g></svg>"
+      },
+      "packSize": {
+        "title": "6 tablets",
+        "icon": "<svg width=\"58\" height=\"25\" viewBox=\"0 0 58 25\"><g fill=\"none\" stroke=\"#4d6678\" stroke-width=\"1.25\"><rect width=\"58\" height=\"25\" stroke=\"none\"/><rect x=\"0.625\" y=\"0.625\" width=\"56.75\" height=\"23.75\" fill=\"none\"/></g></svg>"
       },
       "picture": "https://source.unsplash.com/random/500x800",
       "SKU": "xxxxx"
